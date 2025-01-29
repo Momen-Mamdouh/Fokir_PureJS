@@ -1,0 +1,17 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Build files
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
