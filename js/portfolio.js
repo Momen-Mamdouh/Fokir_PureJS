@@ -4,12 +4,12 @@ export class Portfolio{
     constructor(){
         this.ourPortfolioHeading = document.querySelector(".portfolio-heading");
         this.ourPortfolioHeadingData = `Our Portfolio `;
-        this.firstItem = {img:`./public/images/portfolio/Hand-Watch.jpg`, icon: `fa-solid fa-file-image`, imgAlt:`Hand Watch`};
-        this.secondItem = {img:`./public/images/portfolio/Wrist-Watch.jpg`, icon: `fa-solid fa-link`, imgAlt:`Wrist Watch`};
-        this.thirdItem = {img:`./public/images/portfolio/Labels.jpg`, icon: `fa-solid fa-file-video`, imgAlt: `Labels`};
-        this.fourthItem = {img:`./public/images/portfolio/Shoe.jpg`, icon: `fa-solid fa-file-image`, imgAlt: `Shoe`};
-        this.fifthItem = {img:`./public/images/portfolio/Cards-Box.jpg`, icon: `fa-solid fa-link`, imgAlt: `Cards Box`};
-        this.sixthItem = {img:`./public/images/portfolio/Electrical-Case.jpg`, icon: `fa-solid fa-file-image`, imgAlt: `Electrical Case`};
+        this.firstItem = {img:`./images/portfolio/Hand-Watch.jpg`, icon: `fa-solid fa-file-image`, imgAlt:`Hand Watch`};
+        this.secondItem = {img:`./images/portfolio/Wrist-Watch.jpg`, icon: `fa-solid fa-link`, imgAlt:`Wrist Watch`};
+        this.thirdItem = {img:`./images/portfolio/Labels.jpg`, icon: `fa-solid fa-file-video`, imgAlt: `Labels`};
+        this.fourthItem = {img:`./images/portfolio/Shoe.jpg`, icon: `fa-solid fa-file-image`, imgAlt: `Shoe`};
+        this.fifthItem = {img:`./images/portfolio/Cards-Box.jpg`, icon: `fa-solid fa-link`, imgAlt: `Cards Box`};
+        this.sixthItem = {img:`./images/portfolio/Electrical-Case.jpg`, icon: `fa-solid fa-file-image`, imgAlt: `Electrical Case`};
 
         this.myData = {
             linkedInLink: `https://www.linkedin.com/in/mo-men-mamdouh-aa5baa20a/`,

@@ -11,7 +11,7 @@ export class Blog{
       this.blogData = [
        
         {
-          mediaDisplayed: `<a href="https://www.javascript.com/"> <img src="./public/images/blog/java-script-logo.jpg" alt="Java Script Logo" class="w-100" height="229px"></a>`,
+          mediaDisplayed: `<a href="https://www.javascript.com/"> <img src="./images/blog/java-script-logo.jpg" alt="Java Script Logo" class="w-100" height="229px"></a>`,
           postDate: `23 November, 2015`,
           postName: `Java Script Blog Post`,
           postParagraph: `JavaScript powers the web with interactive features. From DOM manipulation and event handling to async programming and APIs, it's the essential tool for web development success.`,
@@ -34,7 +34,7 @@ export class Blog{
         },
 
         {
-          mediaDisplayed: `<a href="https://angular.dev/"> <img src="./public/images/blog/angular.jpg" alt="" class="w-100" height="229px"></a>`,
+          mediaDisplayed: `<a href="https://angular.dev/"> <img src="./images/blog/angular.jpg" alt="" class="w-100" height="229px"></a>`,
           postDate: `17 May, 2017`,
           postName: `Angular Blog Post`,
           postParagraph: `Angular is a robust framework for building scalable web apps. Master features like components, directives, and dependency injection to create dynamic, high-performance applications effortlessly.`,

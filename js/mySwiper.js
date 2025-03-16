@@ -12,7 +12,7 @@ export class MySwipper{
         this.swipperWrapper = document.querySelector(".swiper-wrapper");
         this.swiperData = [
            {
-                cardImageSrc: `./public/images/cvImage.jpg`,
+                cardImageSrc: `./images/cvImage.jpg`,
                 cardName: `Mo'men Mamdouh`,
                 cardPesronJob: `Front-end Developer`,
                 cardImageDescription: `Cv Image`,
@@ -28,7 +28,7 @@ export class MySwipper{
 
             },
            {
-                cardImageSrc: `./public/images/phtyon-developer.jpg`,
+                cardImageSrc: `./images/phtyon-developer.jpg`,
                 cardName: `Mo'men Mamdouh`,
                 cardPesronJob: `Python Developer`,
                 cardImageDescription: `Cv Image`,
@@ -43,7 +43,7 @@ export class MySwipper{
 
             },
            {
-                cardImageSrc: `./public/images/artist-cv-image.jpg`,
+                cardImageSrc: `./images/artist-cv-image.jpg`,
                 cardName: `Mo'men Mamdouh`,
                 cardPesronJob: `Artist`,
                 cardImageDescription: `Cv Image`,
