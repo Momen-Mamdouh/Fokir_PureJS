@@ -1,6 +1,6 @@
 @font-face {
     font-family: PlayfairDisplay;
-    src: url(../Public/Fonts/RobotoSerif-VariableFont_GRAD\,opsz\,wdth\,wght.ttf);
+    src: url(/Fonts/RobotoSerif-VariableFont_GRAD\,opsz\,wdth\,wght.ttf);
 }
 /*! =====================================Main=========================================== */
 :root{
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6{
 
 /* ^==========================================Start Home-Section============================================ */
 .home-section{
-    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url(../public//images/header.jpeg);
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url(/images/header.jpeg);
     background-repeat: no-repeat;
     background-size: cover ;
     background-position: center;  

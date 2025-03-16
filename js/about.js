@@ -6,7 +6,7 @@ export class About{
         this.AboutImageLayerIconsData = brandsIconData;
         this.aboutImageLayer = document.querySelector(".about-inner .image-layer ul");
         this.aboutParagraphElement = document.querySelector(".about-content .inner-content p");
-        this.aboutImageSrc = `public/images/fokir-cv-image.jpg`;
+        this.aboutImageSrc = `/images/fokir-cv-image.jpg`;
         this.aboutImageAlt = `Mo'men Mamdouh Personal CV Image`;
         this.aboutImageElement = document.querySelector(".about-inner .image-inner img");
         this.cvDataList = document.querySelector(".about-content .cv-data-list");
